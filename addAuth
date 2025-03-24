@@ -1,0 +1,6 @@
+// conf
+
+// 3. Run authentication scaffolding:
+// composer require laravel/ui
+// php artisan ui:auth
+// npm install && npm run dev
